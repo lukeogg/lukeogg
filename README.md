@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @lukeogg
-- 👀 I’m interested in Machine Learning and Quantum Computing.
-- 🌱 I’m currently learning more about machine learning.
-- 💞️ I’m looking to collaborate on projects releated to beekeeping and machine learning.
-- 📫 How to reach me ...
+- 👋 Hello, I’m Luke Ogg. I keep bees and love to create tech gadgets, program, create software solutions and play with my 3d printers.
 
 <!---
 lukeogg/lukeogg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
